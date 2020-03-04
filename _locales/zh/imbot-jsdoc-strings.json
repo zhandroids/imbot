@@ -1,0 +1,19 @@
+{
+  "robotbit.GeekServo": "Geek Servo",
+  "robotbit.GeekServo|param|degree": "[-45-225] degree of servo; eg: -45, 90, 225",
+  "robotbit.GeekServo|param|index": "Servo Channel; eg: S1",
+  "robotbit.MotorRun": "Stepper Car move forward\n\n\n\nStepper Car turn by degree",
+  "robotbit.MotorRunDelay": "Execute single motors with delay",
+  "robotbit.MotorRunDelay|param|delay": "seconde delay to stop; eg: 1",
+  "robotbit.MotorRunDelay|param|index": "Motor Index; eg: M1A, M1B, M2A, M2B",
+  "robotbit.MotorRunDelay|param|speed": "[-255-255] speed of motor; eg: 150, -150",
+  "robotbit.MotorRunDual": "Execute two motors at the same time",
+  "robotbit.MotorRunDual|param|motor1": "First Motor; eg: M1A, M1B",
+  "robotbit.MotorRunDual|param|motor2": "Second Motor; eg: M2A, M2B",
+  "robotbit.MotorRunDual|param|speed1": "[-255-255] speed of motor; eg: 150, -150",
+  "robotbit.MotorRunDual|param|speed2": "[-255-255] speed of motor; eg: 150, -150",
+  "robotbit.Servo": "Servo Execute",
+  "robotbit.Servo|param|degree": "[0-180] degree of servo; eg: 0, 90, 180",
+  "robotbit.Servo|param|index": "Servo Channel; eg: S1",
+  "robotbit.rgb": "Init RGB pixels mounted on robotbit"
+}

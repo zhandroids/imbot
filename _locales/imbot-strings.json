@@ -1,0 +1,21 @@
+{
+  "robotbit.GeekServo|block": "Geek Servo|%index|degree %degree",
+  "robotbit.MatrixClear|block": "Matrix Clear",
+  "robotbit.MatrixDraw|block": "Matrix Draw|X %x|Y %y",
+  "robotbit.MotorRunDelay|block": "Motor|%index|speed %speed|delay %delay|s",
+  "robotbit.MotorRunDual|block": "Motor|%motor1|speed %speed1|%motor2|speed %speed2",
+  "robotbit.MotorRun|block": "Motor|%index|speed %speed",
+  "robotbit.MotorStopAll|block": "Motor Stop All",
+  "robotbit.MotorStop|block": "Motor Stop|%index|",
+  "robotbit.Servo|block": "Servo|%index|degree %degree",
+  "robotbit.Turns.T1B0|block": "1",
+  "robotbit.Turns.T1B2|block": "1/2",
+  "robotbit.Turns.T1B4|block": "1/4",
+  "robotbit.Turns.T2B0|block": "2",
+  "robotbit.Turns.T3B0|block": "3",
+  "robotbit.Turns.T4B0|block": "4",
+  "robotbit.Turns.T5B0|block": "5",
+  "robotbit.rgb|block": "RGB",
+  "robotbit|block": "硬壳智造",
+  "{id:category}Robotbit": "Robotbit"
+}

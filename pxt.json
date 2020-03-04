@@ -1,0 +1,21 @@
+{
+    "name": "imbot",
+    "version": "0.2.8",
+    "description": "硬壳智造软件包",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:kittenbot/pxt-neopixel#v0.6.13",
+        "pxt-sonar": "github:pxt-peijing/chaoshengbo_v1"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/imbot-strings.json",
+        "_locales/zh/imbot-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
